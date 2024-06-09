@@ -1,6 +1,6 @@
 # Lunch Tray App
 
-O **Lunch Tray App** é um aplicativo de pedidos de almoço interativo construído com Jetpack Compose. Este projeto faz parte do exercício para aprender navegação do curso "Android Basics in Compose". Minha função foi adicionar a navegação ao aplicativo usando compose. Como foi proposto no [Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-navigation?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-4-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-practice-navigation#0).
+O **Lunch Tray App** é um aplicativo de pedidos de almoço interativo construído com Jetpack Compose. Este projeto faz parte do exercício para aprender navegação do curso "Android Basics in Compose". Minha função foi adicionar a navegação ao aplicativo usando compose, como foi proposto no [Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-navigation?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-4-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-practice-navigation#0).
 
 ## Capturas de tela
 ![Fluxo](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-practice-navigation/img/6e7d1c4638c64988_960.png)
